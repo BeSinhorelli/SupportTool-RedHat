@@ -1,4 +1,4 @@
-# Ferramenta de Suporte Técnico para Linux (Red Hat)
+<h1 align="center"> 🔧SupportTool para Linux (Red Hat) </h1>
 
 ## Sobre
 
