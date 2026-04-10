@@ -12,6 +12,8 @@ Script em Shell Script com menu interativo para diagnóstico e manutenção de s
 - **Permissão**: Recomendado executar como **root/sudo** para todas as funcionalidades
 - **Dependências**: `bash`, `systemd`, `iproute2`, `util-linux` (pré-instalados na maioria das distribuições)
 
+<img width="1582" height="957" alt="image" src="https://github.com/user-attachments/assets/ff152f77-8b61-4a7e-866d-1177d24a4e8c" />
+
 ## Instalação
 
 ```bash
